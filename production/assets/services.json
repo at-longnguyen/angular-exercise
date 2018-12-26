@@ -1,0 +1,13 @@
+{ 
+  "services": [
+    { "id": 1, "src": "assets/images/img-content-1.png", "title": "Neck Shoulder Pain", "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"},
+    { "id": 2, "src": "assets/images/img-content-2.png", "title": "Neck Shoulder Pain", "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"},
+    { "id": 3, "src": "assets/images/img-content-3.png", "title": "Neck Shoulder Pain", "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"},
+    { "id": 4, "src": "assets/images/img-content-4.png", "title": "Neck Shoulder Pain", "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"},
+    { "id": 5, "src": "assets/images/img-content-5.png", "title": "Slow Say", "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"},
+    { "id": 6, "src": "assets/images/img-content-6.png", "title": "Slow Say", "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"},
+    { "id": 7, "src": "assets/images/img-content-7.png", "title": "Slow Say", "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"},
+    { "id": 8, "src": "assets/images/img-content-8.png", "title": "Neck Shoulder Pain", "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"},
+    { "id": 9, "src": "assets/images/img-content-9.png", "title": "Neck Shoulder Pain", "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"}
+  ]
+}

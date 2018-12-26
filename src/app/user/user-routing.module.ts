@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { ProfileComponent } from './profile/profile.component';
-
 import { ConfirmDeactiveGuard } from './confirm-deactive.guard';
 import { ProfileResolve } from './profile/profile.resolve';
 
